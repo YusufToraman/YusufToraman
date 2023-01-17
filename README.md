@@ -1,4 +1,4 @@
 Hi, I’m @YusufToraman
-I'm a freshman at Bilkent University
+I'm a sophomore at Bilkent University
 My department is the Computer Science
-I am interested in the Programming languages and AI
+I am interested in the backend development
